@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.3.1"
+  },
+  "type": "module",
+  "name": "syncingabout",
+  "version": "0.1.0",
+  "description": "Convert async methods in worker to sync",
+  "main": "index.js",
+  "author": "Sam Thorogood <sam.thorogood@gmail.com>",
+  "license": "Apache-2.0"
+}
